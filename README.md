@@ -1,0 +1,1 @@
+This is a python password checker. It takes input from the command line, makes an api request, and returns the amount of times that password was found in the api response. 
